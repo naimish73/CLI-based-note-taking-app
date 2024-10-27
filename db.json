@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "tags": [],
+      "content": "hello world",
+      "id": 1730021212420
+    },
+    {
+      "tags": [
+        "work",
+        " blogpost"
+      ],
+      "content": "finish the blogpost",
+      "id": 1730021275628
+    },
+    {
+      "tags": [
+        "cricket"
+      ],
+      "content": "let's play cricket",
+      "id": 1730024065750
+    }
+  ]
+}
